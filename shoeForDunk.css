@@ -1,0 +1,76 @@
+body { 	
+	padding-top: 100px; 
+}
+.navOne{
+	padding-bottom: 10px;
+}
+.sectionOne{
+	padding-top: 70px;
+}
+h2{
+	padding-top: 100px;
+	color: #008080;
+}
+.personalInformationRegisterName{
+	padding-top: 100px;
+	color: #008080;
+	font-size: 18px;
+}
+.informationPsd{
+	padding-top: 140px;
+	color: #008080;
+	font-size: 18px;
+}
+.informationEmail{
+	padding-top: 140px;
+	color: #008080;
+	font-size: 18px;
+}
+.nikeShoeSingle{
+	border-style: ridge;
+}
+.nikeShoeDouble{
+	border-style: ridge;
+}
+.nikeH2{
+	padding-bottom: 111px;
+}
+.nikeShopHeadline{
+	height: 20px;
+}
+.adidasShopHeadline{
+	height: 20px;
+}
+.adidasH2{
+	padding-bottom: 111px;
+}
+.adidasShoeDouble{
+	border-style: ridge;
+}
+.adidasShoeSingle{
+	border-style: ridge;
+}
+.concreteShoeInfo{
+	border-style: ridge;
+}
+.payWay{
+	padding-right:93px;
+}
+.finalPay{
+	padding-right: 93px;
+}
+.commentButton{
+	position: relative;
+	left: 650px;
+	bottom: 106px;
+	color: #800000;
+}
+.commentSpace{
+	position: relative;
+	bottom: 1111px;
+}
+.registerButtonLink{
+	position: relative;
+	left: 60px;
+	bottom: 42px;
+}

@@ -1,0 +1,17 @@
+.hrOne{
+	width: 80%;
+	position: relative;
+	margin: 0 auto;
+	padding-top: 40px;
+}
+.registerRowOne{
+	padding-top: 30px;
+}
+.registerRepsd{
+	position: relative;
+	right: 16px;
+}
+.registerOkH2{
+	padding-top: 100px;
+	color: #008080;
+}
